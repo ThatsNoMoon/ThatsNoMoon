@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://github.com/ThatsNoMoon/ThatsNoMoon/blob/master/curves_lambda_frosted_glass_banner.png?raw=true"/>
+</div>
 
-<!--
-**ThatsNoMoon/ThatsNoMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+λ
 
-Here are some ideas to get you started:
+Functional Programming Fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️
+
+Systems Programming Sucker
+
+🖧
+
+Actor System Admirer
+
+🌳
+
+Git Geek
+
+🪑
+
+Armchair Hobbyist
